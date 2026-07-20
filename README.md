@@ -1,2 +1,1 @@
-# react-todo-app
-A responsive Todo List application built with React.js and Bootstrap, featuring task creation, editing, deletion, and an intuitive user interface for efficient task management.
+A responsive and interactive Todo List application built with React.js and Bootstrap. The application enables users to efficiently create, edit, update, and delete tasks through a clean and intuitive user interface. It is designed with reusable React components, responsive layouts, and modern frontend development practices to deliver a smooth user experience across different devices while maintaining clean and organized code.
